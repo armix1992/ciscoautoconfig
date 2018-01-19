@@ -1,4 +1,4 @@
-import os 'just a test as a begginer in github'
+import os 
 import argparse
 import paramiko
 import getpass
